@@ -14,3 +14,5 @@ features
 no need to deploy! whoop!!
 
 ## HOW TO CONTRIBUTE
+
+not taking contributions at present
