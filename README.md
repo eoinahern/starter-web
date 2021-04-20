@@ -16,3 +16,7 @@ no need to deploy! whoop!!
 ## HOW TO CONTRIBUTE
 
 not taking contributions at present
+
+### Copyright notice 
+
+copyright notice 2021 . Eoin Ahern
