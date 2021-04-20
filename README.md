@@ -15,7 +15,7 @@ no need to deploy! whoop!!
 
 ## HOW TO CONTRIBUTE
 
-not taking contributions at present
+please fork this repository and then pull request for review.
 
 ### Copyright notice 
 
